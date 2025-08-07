@@ -24,7 +24,13 @@ This is agentic AI flows, it requires multi step reasoning. Goal Oriented Planni
 <img width="1206" height="612" alt="Screenshot 2025-08-08 at 1 56 29 AM" src="https://github.com/user-attachments/assets/9e4e206f-8e11-48ff-be87-f5e1d6762f23" />
 <img width="996" height="592" alt="Screenshot 2025-08-08 at 1 56 50 AM" src="https://github.com/user-attachments/assets/e2ca61e0-5edf-4a51-974e-8f204169b1cd" />
 
+
+<img width="1100" height="462" alt="Screenshot 2025-08-08 at 2 10 40 AM" src="https://github.com/user-attachments/assets/35790043-ac13-4210-997c-49b97b1cce87" />
 <img width="838" height="638" alt="Screenshot 2025-08-08 at 1 58 44 AM" src="https://github.com/user-attachments/assets/9d4d35d4-3339-4533-b58e-cb7c419937f6" />
+<img width="658" height="436" alt="Screenshot 2025-08-08 at 2 10 24 AM" src="https://github.com/user-attachments/assets/d68226a7-4fdc-4d07-a1df-5eb9c18719e7" />
+
+
+
 https://docs.agno.com/reasoning/reasoning-agents#reasoning-with-tools
 
 <img width="1056" height="399" alt="Screenshot 2025-08-08 at 1 59 52 AM" src="https://github.com/user-attachments/assets/a76fb425-9ca9-46aa-b156-8b5d26ab8a1d" />
